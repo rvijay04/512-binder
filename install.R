@@ -6,3 +6,5 @@ install.packages("IRkernel", dependencies = TRUE)
 install.packages("skimr", dependencies = TRUE)
 
 IRkernel::installspec(user = FALSE)
+
+install.packages("Rtsne")
